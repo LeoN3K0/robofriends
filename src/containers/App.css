@@ -6,7 +6,9 @@
     }
 
 h1{
+    text-shadow: #3df4ee 1px 0 10px;
     font-family: 'SEGA LOGO FONT';
     font-weight: 200;
-    color: #0ccac4
+    color: #1b8f8b
+    
 }
